@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm This is Siwon Kim</h1>
-<h3 align="center">A passionate developer from Korea</h3>
+<h1 align="left">Hi 👋, I'm This is Siwon Kim</h1>
+<h3 align="left">A passionate developer from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
