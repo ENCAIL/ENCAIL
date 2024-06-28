@@ -11,8 +11,6 @@
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1406" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=encail&show_icons=true&locale=en&layout=compact" alt="encail" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=encail&show_icons=true&locale=en" alt="encail" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=encail&" alt="encail" /></p>
