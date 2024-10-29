@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm This is Siwon Kim</h1>
+<h1 align="left">Hi 👋, I'm Siwon Kim</h1>
 <h3 align="left">A passionate developer from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
