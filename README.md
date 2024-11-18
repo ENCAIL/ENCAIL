@@ -1,12 +1,5 @@
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ENCAIL"
-  width="600"
-  height="300"
-/>
 </a>
 <h1 align="left">Hi 👋, I'm Siwon Kim</h1>
-<h3 align="left">A passionate developer from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
