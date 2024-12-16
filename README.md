@@ -1,9 +1,5 @@
 </a>
 <h1 align="left">Hi 👋, I'm Siwon Kim</h1>
-<div align= "center">
-    <img src="https://github.com/ENCAIL/github-stats-transparent/blob/output/generated/overview.svg" alt="Overview">
-    <img src="https://github.com/ENCAIL/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages">
-</div>
 <div align="center">
 <h3>Connect with me</h3>
 <a href="https://instagram.com/8d.o_o3">
@@ -15,5 +11,13 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=css,figma,html,java,javascript,photoshop,python,spring" alt="My Skills">
 </p>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1406" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=encail&" alt="encail" /></p>
+
+<div align= "center">
+    <img src="https://github.com/ENCAIL/github-stats-transparent/blob/output/generated/overview.svg" alt="Overview">
+    <img src="https://github.com/ENCAIL/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages">
+</div>
+
+<div align= "center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1406"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=encail&" alt="encail"/>
+</div>
