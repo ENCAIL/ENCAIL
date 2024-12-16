@@ -1,5 +1,9 @@
 </a>
 <h1 align="left">Hi 👋, I'm Siwon Kim</h1>
+<div align= "center">
+    <img src="https://github.com/ENCAIL/github-stats-transparent/blob/output/generated/overview.svg" alt="Overview">
+    <img src="https://github.com/ENCAIL/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
