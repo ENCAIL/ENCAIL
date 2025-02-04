@@ -19,5 +19,4 @@
 
 <div align= "center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1406"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=encail&" alt="encail"/>
 </div>
