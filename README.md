@@ -9,7 +9,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=css,figma,html,java,javascript,photoshop,python,spring" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,python,java,photoshop,spring" alt="My Skills">
 </p>
 
 <div align= "center">
